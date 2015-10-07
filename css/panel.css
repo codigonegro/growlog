@@ -1,0 +1,26 @@
+.cuerpo{
+	margin-top: 3em;
+}
+
+.panel-active{
+	padding:1em;
+	background-color: #E9FCC8;
+}
+
+.panel-active a{
+	color: #F54B19;
+}
+
+.formu{
+	padding: 10px;
+}
+
+.publicidad{
+background-color: #D9EFCB;
+min-height: 6em;
+}
+
+.med{
+	width:10em;
+	display:inline;
+}

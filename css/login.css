@@ -1,0 +1,14 @@
+
+h2{
+	font-size: 1.5em;
+}
+
+.priv{
+margin-top: 30px;
+}
+
+#key{
+	background: url(../ico/fdo_key.png);
+	display:none;
+	color:#00A70F;
+}
